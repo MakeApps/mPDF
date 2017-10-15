@@ -1,12 +1,15 @@
 {
     "name": "makeapps/mpdf",
+    "version": "1.0.0",
     "description": "Simple mPDF integreation in a package for laravel framework",
     "authors": [
         {
-            "name": "Milind Prabhat",
-            "email": "info@aspirewebs.com"
+            "name": "Makeapps",
+            "email": "mprabhat@aspirewebs.com"
         }
     ],
+    "license": "MIT",
+    "homepage": "https://github.com/MakeApps/mPDF",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "mpdf/mpdf": "^6.1"
