@@ -1,0 +1,14 @@
+{
+    "name": "milindprabhat/mpdf",
+    "description": "Simple mPDF integreation in a package for laravel framework",
+    "authors": [
+        {
+            "name": "Milind Prabhat",
+            "email": "info@aspirewebs.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "mpdf/mpdf": "^6.1"
+    }
+}

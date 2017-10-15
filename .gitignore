@@ -1,0 +1,14 @@
+vendor
+/node_modules
+/tests
+/public
+/storage
+/docs
+Homestead.yaml
+Homestead.json
+.env
+.DS_Store
+Thumbs.db
+*.php.bak
+
+
