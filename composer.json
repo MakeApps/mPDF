@@ -1,5 +1,5 @@
 {
-    "name": "MakeApps/mpdf",
+    "name": "makeapps/mpdf",
     "description": "Simple mPDF integreation in a package for laravel framework",
     "authors": [
         {
